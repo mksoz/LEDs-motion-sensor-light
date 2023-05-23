@@ -41,6 +41,7 @@ First, copy and paste the code that captures the LED lights.
 ## Functionality
 When the measurement of the photoresistor that detects the ambient light is lower than the maximum light (for the LEDs to light up), the system will detect whether there is any kind of presence or not.
 If there is presence, the LEDs will turn on until the timer expires or it detects a light rise above the maximum.
+
 <img src="https://github.com/mksoz/LEDs-motion-sensor-light/blob/main/pngs/demo1.gif" width="250" height="250"/>
 <img src="https://github.com/mksoz/LEDs-motion-sensor-light/blob/main/pngs/demo2.gif" width="250" height="250"/>
 
