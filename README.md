@@ -24,7 +24,7 @@ It has been used:
 ## Software editor
 Arduino (https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE) in this case, but could be others. 
 
-## 1º IR reciever
+## 1º IR receiver
 First, copy and paste the code that captures the LED lights. 
 1. Configure the pinout (4) corresponding to the IR receiver.  
 2. Set the pin number corresponding to the IRreceiver.ino file to the same pin number you connect to the arduino board.
