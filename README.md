@@ -12,13 +12,13 @@ It has been used:
 
 ## Pinouts
 1. Photoresistors for measuring light intensity
-
+![alt text](https://github.com/mksoz/LEDs-motion-sensor-light/blob/main/pngs/photores_pinout.png?raw=true)
 2. PIR sensor for motion detection
-
+![alt text](https://github.com/mksoz/LEDs-motion-sensor-light/blob/main/pngs/pir_pinout.png?raw=true)
 3. IR transmitter for switching LEDs on and off
-
+![alt text](https://github.com/mksoz/LEDs-motion-sensor-light/blob/main/pngs/transm_pinout.png?raw=true)
 4. IR receiver to record code for transmission
-
+![alt text](https://github.com/mksoz/LEDs-motion-sensor-light/blob/main/pngs/rec_pinout.png?raw=true)
 ## Software editor
 Arduino (https://support.arduino.cc/hc/en-us/articles/360019833020-Download-and-install-Arduino-IDE) in this case, but could be others. 
 
