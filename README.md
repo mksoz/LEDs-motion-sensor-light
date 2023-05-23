@@ -1,6 +1,6 @@
 # LEDs-motion-sensor-light
 
-In this tutorial I am going to teach you with 3 simple steps, to create an intelligent system that detects the presence to turn on LED lights and turns off automatically with the detection of ambient light or with a timer, all configurable by the user.
+In this tutorial I am going to teach you with 2 simple steps, to create an intelligent system that detects the presence to turn on LED lights and turns off automatically with the detection of ambient light or with a timer, all configurable by the user.
 
 ## Hardware 
 It has been used:
