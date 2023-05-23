@@ -4,11 +4,13 @@ In this tutorial I am going to teach you with 3 simple steps, to create an intel
 
 ## Hardware 
 It has been used:
-    1 LEDs (6m in this case)
-    1 Arduino Mega 2560 board.
-    2 photoresistors
-    1 PIR sensor
-    2 10k ohm resistors
+1. 1 LEDs (6m in this case)
+2. 1 Arduino Mega 2560 board
+3. 2 photoresistors
+4. 1 PIR sensor
+5. 2 10k ohm resistors
+6. 1 IR receiver
+7. 1 IR transmitter
 
 ## Pinouts
 1. Photoresistors for measuring light intensity
